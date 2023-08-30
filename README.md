@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ezekwu
 - 👀 I’m interested in front-end development 
-- 🌱 I’m currently learning typesript
+- 🌱 I’m currently learning next.js
 - 💞️ I’m looking to collaborate on cool front-end projects 
 - 📫 How to reach me ...ezekwujerry@gmail.com 
 
