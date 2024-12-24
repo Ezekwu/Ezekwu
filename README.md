@@ -1,5 +1,5 @@
 - 👋 Hi,
-I’m Ezekwu Jeremiah, a sofware engineer based in Nigeria. I have about 4 years of experience building user interfaces for the web. I have worked for several companies like  [Truck dispatch](https://www.gettruckdispatch.com/) where contributed significantly to the development of the MVP and the V2 working collaborating with [Henry Eze](https://github.com/god-of-js) to achieve this. I was the lead frontend developer at [Kodee](https://kodee-marketing.vercel.app/) responsible for establishing the software architecture and selecting the right stack for this project. I 
+I’m Ezekwu Jeremiah, a sofware engineer based in Nigeria. I have 4 years of experience building user interfaces for the web. I have worked for several companies like  [Truck dispatch](https://www.gettruckdispatch.com/) where contributed significantly to the development of the MVP and the V2 working collaborating with [Henry Eze](https://github.com/god-of-js) to achieve this. I was the lead frontend developer at [Kodee](https://kodee-marketing.vercel.app/) responsible for establishing the software architecture and selecting the right stack for this project. I 
 also crafted and implemented software guidelines to uphold strict adherence to software principles and maintain formal progress 
 tracking. I currently work at this organisation.
 
